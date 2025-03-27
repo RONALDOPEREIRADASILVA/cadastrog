@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.lista_foto {
+    width: 100px; /* Aumentei um pouco a largura */
+    height: auto; /* Adicionei a altura automática */
+    border-radius: 5px;
+    object-fit: contain; /* Ajusta a imagem para caber no contêiner */
+  }
+  
+  .mostra_foto {
+    width: 150px;
+    height: auto; /* Adicionei a altura automática */
+    object-fit: contain; /* Ajusta a imagem para caber no contêiner */
+  }
